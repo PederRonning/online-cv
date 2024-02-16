@@ -120,11 +120,11 @@ skills:
 
     toolset:
       - name: Python
-        level: 100
+        level: 99
 
       - name: Rstudio
-        level: 100
+        level: 99
 
       - name: Ecxel
-        level: 100
+        level: 99
 
